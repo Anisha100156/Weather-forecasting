@@ -4,10 +4,10 @@ A modern and intuitive weather forecasting application that provides real-time w
 
 ## Features  
 
-**Real-Time Weather Updates** –Fetches accurate weather details instantly.
-**Interactive & User-Friendly UI** –  Designed for a smooth and responsive experience. 
-**Comprehensive Weather Data** – Displays temperature, humidity, min/max temperature, and weather conditions. 
-**Seamless API Integration** – Utilizes the OpenWeatherMap API for real-time data retrieval.
+**Real-Time Weather Updates** – Fetches accurate weather details instantly
+**Interactive & User-Friendly UI** –  Designed for a smooth and responsive experience 
+**Comprehensive Weather Data** – Displays temperature, humidity, min/max temperature, and weather conditions 
+**Seamless API Integration** – Utilizes the OpenWeatherMap API for real-time data retrieval
 ## Technologies Used  
 
 **Frontend**: React.js (JavaScript ES6+)  
